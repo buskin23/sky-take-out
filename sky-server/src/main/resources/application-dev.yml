@@ -6,3 +6,9 @@ sky:
     database: sky_take_out
     username: root
     password: 2990250347
+
+  qiniu:
+    access-key: _RLZxvIe2klOTO5iCI3bFSrRJ_1XUS3bVRzb4XYk
+    secret-key: qnkt6kwC7_c0kD34iJnOBY13XLQglRvZNpQ02Gaw
+    bucket: sky-lzh
+    url: http://slbyjwr5r.hd-bkt.clouddn.com

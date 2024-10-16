@@ -115,7 +115,17 @@
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
         </dependency>
+
+        <!--导入七牛云需要坐标-->
+        <dependency>
+            <groupId>com.qiniu</groupId>
+            <artifactId>qiniu-java-sdk</artifactId>
+            <version>7.16.0</version>
+        </dependency>
+
     </dependencies>
+
+
 
     <build>
         <plugins>
